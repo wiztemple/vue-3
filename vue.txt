@@ -1,0 +1,28 @@
+why use vue?
+1. Declarative
+2. Legible
+3. Easy to maintain
+4. Powerful
+5. A collection of the best of the best
+6. Elegant
+7. Gives me what I want when I need it, and gets out of my way
+8. A way to be really productive
+9. It's fun
+
+
+Directives
+- v-if
+- v-else
+- v-else-if
+- v-show
+- v-for
+- v-text
+- v-html
+- v-slot
+- v-on
+- v-bind
+- v-model
+- v-pre
+- v-cloak
+- v-once
+- v-is

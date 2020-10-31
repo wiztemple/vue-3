@@ -6,6 +6,9 @@
   <Vbind />
   <Vfor />
   <Vonce />
+  <Von />
+  <Vtext />
+  <DirectivesExercise />
 </template>
 
 <script>
@@ -16,6 +19,9 @@ import Vif from "./components/Vif";
 import Vbind from "./components/Vbind";
 import Vfor from "./components/Vfor";
 import Vonce from "./components/Vonce";
+import Von from "./components/Von";
+import Vtext from "./components/Vtext";
+import DirectivesExercise from "./components/DirectivesExercise";
 
 export default {
   name: "App",
@@ -27,6 +33,9 @@ export default {
     Vbind,
     Vfor,
     Vonce,
+    Von,
+    Vtext,
+    DirectivesExercise,
   },
 };
 </script>
